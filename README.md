@@ -7,4 +7,5 @@
 
   following sample image
 
+<img src="images/combine_images.jpg" alt="My Image">
 
