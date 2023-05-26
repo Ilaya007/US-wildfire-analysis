@@ -1,3 +1,3 @@
 # Project 1: Big Data EDA: Revealing Insights in Vast Datasets
-US-wildfire-analysis
-2.3 Million US Wildfires (1992-2020) General analysis
+A dataset of 2.3 million US wildfires from 1992 to 2015, created by an independent researcher, is available on Kaggle.
+Python project using pandas, numpy, seaborn, matplotlib, folium, and plotly.express for EDA and data visualization.
