@@ -11,6 +11,3 @@
 
 To enhance the understanding and impact of the project results, the findings and insights are presented below using visualizations, charts, and graphs.
 
-
-<img src="images/combine_images.jpg" alt="My Image">
-
